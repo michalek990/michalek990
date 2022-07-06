@@ -1,19 +1,14 @@
 ### Hi there 👋
 
-<!--
-**michalek990/michalek990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying at a college of computer science
+- 🌱 I’m currently learning Spring Framework
+- 📫 How to reach me: michal.grzeszuk@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 
 Jestem studentem wyższej uczelni informatyki w Lublinie. Aktualnie uczę się programować w języku Java. Pogłębiam także wiedzę w temacie inżynierii oprogramowania i projektowania systemów. Uwielbiam pracę w grupie i chciałbym połączyć to z pracą jako informatyk.
 
