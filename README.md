@@ -16,7 +16,9 @@
 
   
 </div>
-  # I am a student of the University of Information Technology in Lublin. I am currently learning to program in Java. I also deepen my knowledge of software engineering and systems design. I love working in a group and I would like to combine it with work as an IT specialist.
+
+# I am a student of the University of Information Technology in Lublin. I am currently learning to program in Java. I also deepen my knowledge of software engineering and systems design. I love working in a group and I would like to combine it with work as an IT specialist.
+
 
 I am a beginner Java developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
 
