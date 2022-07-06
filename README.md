@@ -16,6 +16,7 @@
 
   
 </div>
+---
 
 ### I am a student of the University of Information Technology in Lublin. I am currently learning to program in Java. I also deepen my knowledge of software engineering and systems design. I love working in a group and I would like to combine it with work as an IT specialist.
 
@@ -54,6 +55,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="swift" **alt="swift" width="40" height="40"/>
 </div>
+
+---
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=michalek990&theme=dark&background=000000)](https://git.io/streak-stats)
