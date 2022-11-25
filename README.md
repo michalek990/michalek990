@@ -28,7 +28,7 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I learn about Spring Framework.
+- :zap: In my free time, I learn about .Net framework.
 
 - :mailbox:How to reach me: michal.grzeszuk@gmail.com
 
