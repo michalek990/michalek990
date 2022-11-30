@@ -68,7 +68,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michalek990&show_icons=true&theme=aura)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalek990&layout=compact&theme=aura&hide=scss,typescript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalek990&layout=compact&theme=aura&hide=scss,typescript,python)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
