@@ -68,6 +68,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michalek990&show_icons=true&theme=radical)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michalek990&repo=CheapFuel)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 
