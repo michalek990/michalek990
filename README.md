@@ -18,7 +18,7 @@
 </div>
 
 
-<h2> I am a Java programmer with one year of experience. He has deep knowledge of object-oriented programming, data structures and algorithms. My skills also include the ability to use the Spring framework and other tools for use in the Java environment. </h2>
+## I am a Java programmer with one year of experience. He has deep knowledge of object-oriented programming, data structures and algorithms. My skills also include the ability to use the Spring framework and other tools for use in the Java environment. ##
 
 
 
