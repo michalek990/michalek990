@@ -69,7 +69,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michalek990&show_icons=true&theme=radical )
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalek990&layout=compact&theme=radical&hide=scss,typescript,python,vue,C++)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalek990&layout=compact&theme=radical&hide=scss,typescript,python,vue,c++)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
